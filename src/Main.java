@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Primitive Types Challenge");
 
         /*
-        Your challege is to create a byte variable and set it to any valid byte number,
+        Your challenge is to create a byte variable and set it to any valid byte number,
         it doesn't matter. Create a short variable and set it to any valid short number.
 
         Create an int variable and set it to any valid int number.
