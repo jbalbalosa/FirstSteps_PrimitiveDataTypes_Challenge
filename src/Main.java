@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Udemy: Java Programming Masterclass");
-        System.out.println("Primitive Types Challenge");
+        System.out.println("Primitive Data Types Challenge");
 
         /*
         Your challenge is to create a byte variable and set it to any valid byte number,
